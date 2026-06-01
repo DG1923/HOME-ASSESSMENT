@@ -159,7 +159,7 @@ The test verifies:
 
 ## Design Document
 
-See `design.md` for:
+See `docs/system_design_spec.md` for:
 
 - problem analysis
 - architecture
