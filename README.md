@@ -46,7 +46,7 @@ src/
 data/
   examples/
 app.py
-design.md
+docs/system_design_spec.md
 requirements.txt
 tests/
 ```
